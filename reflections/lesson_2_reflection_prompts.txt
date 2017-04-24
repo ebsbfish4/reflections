@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It makes everything in that folder part of a repository in git. 
+This does not, however, create the initial commit.
