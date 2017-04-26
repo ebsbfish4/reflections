@@ -19,3 +19,8 @@ into your local machine or from your local machine to
 somewhere else in your local machine. Branches are how
 you can divide changes made in your repository into different
 groups. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It can allow you to work and make changes to the master evan in an offline time
+
