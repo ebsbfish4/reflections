@@ -31,3 +31,8 @@ harder to keep track of how to revert to previous versions.
 I guess you would have to just use some storage online
 and try to standardize your approach as much as possible.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If your changes are going to have a larger-picture goal that 
+will require many commits it will probably make sense to split
+it off into a different branch
