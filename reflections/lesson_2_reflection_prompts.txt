@@ -2,3 +2,33 @@ What happens when you initialize a repository? Why do you need to do it?
 
 It makes everything in that folder part of a repository in git. 
 This does not, however, create the initial commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It allows you to only add some of the files. This is useful
+because it can help you keep logical changes seperate. One 
+example could be that you make changes to a game that update
+the updates the stylesheet of multiple classes and creates 
+a new class you can save them as different commits.
+
+ How can you use the staging area to make sure you have one commit per logical change?
+
+ You can make sure that the files changes make logical sense
+ together, and if not you can seperate them into two commits.
+
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ Branches should help you keep different tracks of a code.
+ You need to have one master that stays updated, and then you
+ can also have different branches for experimental features, 
+ different versions, entirely different features, etc.
+
+ How do diagrams help you visualize the branch structure?
+
+ You can visualize different branches with particular 
+ focus on where the head of each node is.
+
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+ It combines the changes both people made to the codebase 
+and seperating it like that helps us see it better
