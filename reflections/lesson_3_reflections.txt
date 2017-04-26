@@ -24,3 +24,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It can allow you to work and make changes to the master evan in an offline time
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Not much easier comes to mind, but it would definitely be 
+harder to keep track of how to revert to previous versions.
+I guess you would have to just use some storage online
+and try to standardize your approach as much as possible.
+
